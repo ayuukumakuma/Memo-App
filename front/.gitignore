@@ -88,7 +88,3 @@ sw.*
 
 # Vim swap files
 *.swp
-
-pages/tests/
-
-.ash_history

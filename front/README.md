@@ -1,6 +1,6 @@
 # app
 
-> My prime Nuxt.js project
+> My first-rate Nuxt.js project
 
 ## Build Setup
 
