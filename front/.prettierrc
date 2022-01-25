@@ -1,8 +1,4 @@
 {
   "semi": false,
-<<<<<<< HEAD
-  "arrowParens": "always",
-=======
->>>>>>> 960edaf2f38813be4a9184fe54b98a98379199a7
   "singleQuote": true
 }
