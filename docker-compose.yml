@@ -33,6 +33,8 @@ services:
       - 8080:3000
     depends_on:
       - back
+    environment:
+      - CHOKIDAR_USEPOLLING=true
 volumes:
   public-data:
   tmp-data:
