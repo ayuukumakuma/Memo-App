@@ -90,3 +90,5 @@ sw.*
 *.swp
 
 pages/tests/
+
+.ash_history
